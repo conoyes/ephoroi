@@ -1,0 +1,5 @@
+name 'ephoroi'
+description 'Automation for hippeis'
+version '0.0.1'
+maintainer 'David Lakatos'
+maintainer_email 'david.lakatos.hu@gmail.com'
